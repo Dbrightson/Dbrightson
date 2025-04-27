@@ -1,14 +1,16 @@
-<!-- Banner with Typing Animation -->
+<!-- Better Banner with vertical spacing -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Don%20Brightson%20🚀&fontAlign=50&fontColor=FFFFFF&desc=Passionate%20Developer%20%7C%20Security%20Enthusiast%20%7C%20AI%20Innovator&descAlign=50&descSize=20&color=gradient" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%20I'm%20Don%20Brightson%20🚀&fontSize=40&fontAlign=50&fontColor=FFFFFF&desc=Passionate%20Developer%20%7C%20Security%20Enthusiast%20%7C%20AI%20Innovator&descAlign=50&descAlignY=70&descSize=20&color=gradient" />
 </p>
 
+<!-- Typing Animation with Fixes -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Information+Security+Trainee+at+Flipkart;Software+Engineer+at+J.P.+Morgan+(Virtual);Building+AI-Powered+Applications;Cloud+Native+Developer;Security%7CFullstack%7CDevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Information+Security+Trainee+at+Flipkart;Software+Engineer+(Virtual)+at+JP+Morgan;Building+AI-Powered+Applications;Cloud+Native+Developer;Security%7CFullstack%7CDevOps" />
   </a>
 </h1>
 
+<!-- Visitor Counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/dbrightson/count.svg" alt="Visitor Count" />
 </p>
@@ -117,14 +119,6 @@ Explore more: [Portfolio](https://www.donbrightson.tech/)
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/dbrightson/dbrightson/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <p align="center">
@@ -142,5 +136,5 @@ Explore more: [Portfolio](https://www.donbrightson.tech/)
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Feel+free+to+connect+and+collaborate!%F0%9F%92%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Feel+free+to+connect+and+collaborate!%F0%9F%92%AC" />
 </p>
