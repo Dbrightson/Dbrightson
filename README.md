@@ -1,20 +1,146 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbrightson" alt="dbrightson" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/donbrightson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donbrightson/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/don.brightson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/don.brightson/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dbrightson78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dbrightson78" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/donbrightson29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/donbrightson29/" height="30" width="40" /></a>
+<!-- Banner with Typing Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Don%20Brightson%20🚀&fontAlign=50&fontColor=FFFFFF&desc=Passionate%20Developer%20%7C%20Security%20Enthusiast%20%7C%20AI%20Innovator&descAlign=50&descSize=20&color=gradient" alt="Header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Information+Security+Trainee+at+Flipkart;Software+Engineer+at+J.P.+Morgan+(Virtual);Building+AI-Powered+Applications;Cloud+Native+Developer;Security%7CFullstack%7CDevOps" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbrightson&show_icons=true&locale=en&layout=compact" alt="dbrightson" /></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/dbrightson/count.svg" alt="Visitor Count" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbrightson&show_icons=true&locale=en" alt="dbrightson" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dbrightson&" alt="dbrightson" /></p>
+## 📜 About Me
+
+- 🔭 Currently an **Information Security Trainee** at **Flipkart**  
+- 🌟 Passionate about **Cybersecurity**, **AI/ML**, **Fullstack Development**, and **Cloud Computing**  
+- 🛠 Built AI-based projects like **Voice of Justice** and **Modern Fintech App**  
+- 🎯 Winner of **Bot Brains Battle '24 @ IIT Bhubaneshwar**  
+- 🌱 Learning Advanced **Threat Detection**, **Cloud Security**, and **Large Scale Systems**  
+- 📫 Contact me at **dbrightson78@gmail.com** | Visit [Portfolio](https://www.donbrightson.tech/)  
+- ⚡ Fun Fact: **AI + Security** is my favorite combo 🔥
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
+
+**Frontend Development:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+**Backend & Databases:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+**Cloud & DevOps:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github,postman" />
+</p>
+
+**Tools & Platforms:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redux,figma,vscode,linux" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place** - *Bot Brains Battle '24* (IIT Bhubaneshwar)
+- 🏅 **Top 15 Project** - *Naan Mudhalvan Competition '23* (AI-based real-time chat app)
+- 🚀 Developed **award-winning** solutions in AI and dynamic data visualization
+
+---
+
+## 👨‍💻 Experience
+
+**Flipkart – Information Security Trainee (Nov 2024 - Present)**  
+- Engineered automated security workflows, streamlined compliance tracking  
+- Integrated **Isolation Forest** and **Local Outlier Factor** for Azure Sentinel threat detection  
+- Implemented system hardening policies, reducing risks & costs by 10%  
+
+**J.P. Morgan (Virtual Internship) – Software Engineer (Oct 2023 – Sept 2024)**  
+- Contributed to open-source **NodeLink3D.js**  
+- Improved interactive data visualization reliability by 30%  
+- Enhanced system performance for graph analytics
+
+---
+
+## 🚀 Featured Projects
+
+**Voice of Justice – AI-Assisted Legal Consultation**  
+- Designed a multi-platform AI chatbot improving legal consultations by 40%  
+- Integrated JWT authentication and real-time lawyer database  
+
+**Modern Fintech Banking Application**  
+- Architected a high-performance banking app using **Next.js**, improved transactions by 35%  
+- Integrated **Plaid** and **Dwolla** APIs for secure real-time payments  
+
+Explore more: [Portfolio](https://www.donbrightson.tech/)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dbrightson&theme=react-dark&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dbrightson&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dbrightson&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dbrightson&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/dbrightson/dbrightson/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/donbrightson" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dbrightson" target="_blank">
+    <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:dbrightson78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Feel+free+to+connect+and+collaborate!%F0%9F%92%AC" alt="Typing SVG" />
+</p>
